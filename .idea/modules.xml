@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Liturgie/Liturgie.iml" filepath="$PROJECT_DIR$/Liturgie/Liturgie.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/projektgemeinde.iml" filepath="$PROJECT_DIR$/.idea/projektgemeinde.iml" />
     </modules>
   </component>
